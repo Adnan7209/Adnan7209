@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed+Adnan!;" />
 </h1>
 <p >I'm a third-year B.Tech IT undergraduate with a passion for coding and development. My journey into the tech world began with a curiosity about how things work, and it has blossomed into a deep love for creating and problem-solving.</p>
-<img alt="animated-gif" width="500" align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img alt="animated-gif" width="450" align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 
 * 🖥️  See my portfolio at [Portfoio](http://https://main--mohammed-adnan.netlify.app/)
