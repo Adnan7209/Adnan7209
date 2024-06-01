@@ -6,7 +6,7 @@
 <img alt="animated-gif" width="450" align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 
-* 🖥️  See my portfolio at [Portfoio](http://https://main--mohammed-adnan.netlify.app/)
+* 🖥️  See my portfolio at [Portfoio](https://main--mohammed-adnan.netlify.app/)
 * ✉️  You can contact me at [mdadnan28713@gmail.com](mailto:mdadnan28713@gmail.com)
 * ⚡  I battle bugs with one hand tied behind my back. 🗡️🐛
 
